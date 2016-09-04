@@ -3,7 +3,6 @@ layout: essay
 type: essay
 title: JavaScript Reflection
 date: 2016-09-01
-image: images/JavaSquare.jpg
 labels:
   - JavaScript
 ---
