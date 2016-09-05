@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: JavaScript Reflection
+permalink: essays/JavascriptReflection
 date: 2016-09-01
 labels:
   - JavaScript
