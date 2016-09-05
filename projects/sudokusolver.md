@@ -2,18 +2,16 @@
 layout: project
 type: project
 published: true
-image: images/CProgramming.png
-title: Tabblephis
-permalink: projects/tabblephis
-date: 2014
+image: images/C++Programming.png
+title: Sudoku Solver
+permalink: projects/sudokusolver
+date: 2015
 labels:
-  - C
-summary: A game programmed in C for my EE 160 course in the Spring of 2014.
+  - C++
+summary: Working as a team of 4, we created a sudoku game in C++.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Tabblephis1.png">
-  <img class="ui image" src="../images/Tabblephis2.png">
-  <img class="ui image" src="../images/Tabblephis3.png">
-  <img class="ui image" src="../images/Tabblephis4.png">
+  <img class="ui image" src="../images/Sudoku.png">
+  <img class="ui image" src="../images/C++Pic.png">
 </div>
