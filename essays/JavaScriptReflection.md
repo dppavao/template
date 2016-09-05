@@ -8,6 +8,9 @@ labels:
 ---
 
 <img class="ui tiny left circular floated image" src="../images/JS.jpg">
+<img class="ui tiny left circular floated image" src="../images/JavaSquare.jpg">
+<img class="ui tiny left circular floated image" src="../images/PixelJava.jpg">
+
 
 ## JavaScript
 
