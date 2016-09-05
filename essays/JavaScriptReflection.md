@@ -7,8 +7,7 @@ labels:
   - JavaScript
 ---
 
-<img class="actual image" src="../images/JS.jpg">
-
+<img class="ui tiny left circular floated image" src="../images/JS.jpg">
 
 ## JavaScript
 
