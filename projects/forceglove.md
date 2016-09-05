@@ -12,6 +12,6 @@ summary: During my Fall 2014 semester, my partner and I enhanced a boxing glove 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ArduinoBoard.png">
+  <img class="ui image" src="../images/ArduinoBoard.jpg">
   <img class="ui image" src="../images/ArduinoLogo.png">
 </div>
