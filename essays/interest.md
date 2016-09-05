@@ -12,7 +12,7 @@ labels:
 <div class="ui small rounded images">
   <img class="ui image" src="../images/ArduinoCover.png">
   <img class="ui image" src="../images/C++Programming.png">
-  <img class="ui image" src="../images/Cprogramming.png">
+  <img class="ui image" src="../images/CProgramming.png">
   <img class="ui image" src="../images/JS.jpg">
 </div>
 
