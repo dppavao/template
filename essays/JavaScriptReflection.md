@@ -11,7 +11,7 @@ labels:
 <img class="ui tiny left circular floated image" src="../images/JavaSquare.jpg">
 <img class="ui tiny left circular floated image" src="../images/PixelJava.jpg">
 
----
+<\n>
 ## JavaScript
 
 My Software Engineering class, ICS 314, has introduced to a new programming language called JavaScript. For the past week, I was assigned to a bunch of exercises on JavaScript coding. Prior to this assignment, I had experience C, C++, and Python. It was relaxing to sit down and learn a little bit of JavaScript and how it was similar and different from the languages I already knew. For example, declaring variables in C is very different from declaring variables in JavaScript. Overall, JavaScript is very relatable to the other languages I know.
