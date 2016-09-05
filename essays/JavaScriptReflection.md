@@ -7,7 +7,7 @@ labels:
   - JavaScript
 ---
 
-<img class="actual image" src="../images/JavaSquare.jpg">
+<img class="actual image" src="../images/JS.jpg">
 
 
 ## JavaScript
