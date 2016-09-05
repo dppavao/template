@@ -12,6 +12,7 @@ labels:
 <img class="ui tiny left circular floated image" src="../images/PixelJava.jpg">
 
 <br />
+<br />
 
 ## JavaScript
 
