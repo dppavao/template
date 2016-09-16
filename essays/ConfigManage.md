@@ -19,6 +19,6 @@ Over my years as a student so far, I've worked in a few groups in programming pr
 
 ## GitHub and Git
 
-<img class="ui medium left floated rounded image" src="../images/github.png">
-
 Knowing that Git is a popular technology for configuration management and that GitHub is a popular hosting service makes me wonderif Git became popular from GitHub or GitHub became popular from Git. I believe Github was created because of Git. This meaning that GitHub only became popular because of the existance of Git. I also believe that the use of Git is more powerful than that of GitHub. GitHub seems easier to use but Git is more efficient to use.
+
+<img class="ui medium left floated rounded image" src="../images/github.png">
