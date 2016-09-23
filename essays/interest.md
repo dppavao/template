@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: My Interest in Software Engineering
-permalink: essays/javascriptreflection
+permalink: essays/interests
 date: 2016-09-01
 labels:
   - Sofware Engineering
