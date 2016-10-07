@@ -10,7 +10,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui large left floated rounded image" src="../images/semanticui.png">
+<img class="ui medium left floated rounded image" src="../images/semanticui.png">
 
 ## Thoughts on Semantic UI 
 
