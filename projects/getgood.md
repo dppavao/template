@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/home-page.png
+image: images/home-page-square.png
 title: Get Good
 permalink: projects/getgood
 date: 2016
